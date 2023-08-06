@@ -15,8 +15,8 @@ This is a basic calculator built using HTML, CSS, and JavaScript. It provides th
 To use the calculator, simply open the `index.html` file in a web browser that supports HTML5 and JavaScript.
 
 ```bash
-$ git clone https://github.com/bhavikapatil07/calculator.git
-$ cd calculator
+$ git clone https://github.com/VijayaAmodkar/OIBSIP_Calculator.git
+$ cd OIBSIP_Calculator
 $ open index.html
 ```
 
